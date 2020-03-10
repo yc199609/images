@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a4b6f"],{"082c":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticStyle:{margin:"20px"}},[e._v("正在开发, 敬请期待 !")])},c=[],r={name:"EnergyManagement"},i=r,s=t("2877"),u=Object(s["a"])(i,a,c,!1,null,"23e65a06",null);n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0a4b6f.585ddd84.js.map
